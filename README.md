@@ -57,3 +57,8 @@ Education Campaigns: Increase financial literacy programs aimed at women, encour
 Conclusion
 Final Insights: The analysis reveals clear differences in risk tolerance between genders, with women leaning toward conservative investment avenues and men favoring high-risk options. This information can guide targeted marketing strategies and product development.
 Impact: By leveraging these insights, businesses can enhance customer engagement, optimize product offerings, and drive investments in the most effective channels for each gender demographic.
+![(Task 2   8)Investment Insights Gender, Age and Duration Analysis](https://github.com/user-attachments/assets/f83af67f-1d76-4f8e-b579-85e400f67975)
+![(Task 4)Insights into Investment Participation   Aveneue Choices](https://github.com/user-attachments/assets/db2648c0-1fcd-4634-9a08-3717b9ddbdac)
+![(Task 5   6)Investment Choices and Savings Goals](https://github.com/user-attachments/assets/46bd12d7-8b8d-40e2-9ce5-49fa719067a7)
+
+
